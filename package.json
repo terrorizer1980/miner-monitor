@@ -2,7 +2,7 @@
   "name": "miner-monitor",
   "version": "0.0.2",
   "dependencies": {
-    "@grpc/proto-loader": "^0.5.0",
+    "@grpc/proto-loader": "^0.6.2",
     "axios": "^0.20.0",
     "bitmart-api": "^1.0.0",
     "body-parser": "^1.18.3",
