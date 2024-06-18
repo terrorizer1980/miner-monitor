@@ -25,7 +25,7 @@
     "reconnecting-websocket": "^4.1.10",
     "socket.io-client": "^2.2.0",
     "superagent": "^4.1.0",
-    "ws": "^6.2.0",
+    "ws": "^8.17.1",
     "uuid": "^8.3.0"
   },
   "scripts": {
