@@ -3,8 +3,8 @@
   "version": "0.0.2",
   "dependencies": {
     "@grpc/proto-loader": "^0.5.0",
-    "axios": "^0.20.0",
-    "bitmart-api": "^1.0.0",
+    "axios": "^1.12.0",
+    "bitmart-api": "^2.0.1",
     "body-parser": "^1.18.3",
     "bytes": "^3.1.0",
     "coinbase": "^2.0.8",
